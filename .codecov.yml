@@ -1,0 +1,13 @@
+comment: off
+
+# ignore:
+#   - legacy/**/*
+
+coverage:
+  status:
+    project:
+      default:
+        target: 35%
+        threshold: null
+    patch: off
+    changes: off
