@@ -41,8 +41,8 @@ require (
 	go.bug.st/downloader v1.1.0
 	go.bug.st/relaxed-semver v0.0.0-20181022103824-0265409c5852
 	go.bug.st/serial.v1 v0.0.0-20180827123349-5f7892a7bb45
-	golang.org/x/net v0.0.0-20190311183353-d8887717615a
-	golang.org/x/text v0.3.0
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/text v0.3.8
 	google.golang.org/genproto v0.0.0-20190327125643-d831d65fe17d // indirect
 	google.golang.org/grpc v1.21.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce // indirect
